@@ -1,0 +1,44 @@
+
+.fila{
+    
+    display: flex;
+    padding: 20px 20px 10px 20px;
+}
+
+.casilla{
+    display: flex;
+}
+
+span{
+    font-size: 10px;
+    background-color: #999;
+
+}
+
+input{
+    padding: 10px;
+    border-bottom-color: #474747;
+    transition-duration: 0.5s;
+    transition-property: #3CCAE0;
+    
+}
+
+label{
+    font-size: 18px;
+    border-color: #1e1e1e;
+    
+}
+
+input[type="button"]:hover{
+    background-color: #07470e;
+    width: 150px;
+    height: 50px;
+    transition-duration: 1s;
+    transform: #12bf2a;
+}
+
+
+
+
+
+
